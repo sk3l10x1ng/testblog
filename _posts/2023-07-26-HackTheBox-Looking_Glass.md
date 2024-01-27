@@ -17,9 +17,9 @@ We've built the most secure networking tool in the market, come and check it out
 ## PROOF OF CONCEPT
 The Looking  Glass website allow the user the troubleshoot and check status of the server the server’s through `ping` and `traceroute` commands 
 
-![Untitled](/assets/img/looking_glass/Untitled.png)
+![Untitled](/assets/img/1.png)
 
-
+![un](/assets/img/Untitled.png)
 &nbsp;
 
 By intercepting (Burp_suite) the request , it sends a `POST` request to the server to perform a ping request to the IP `206.189.120.31` 
